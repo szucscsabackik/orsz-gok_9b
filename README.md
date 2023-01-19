@@ -1,2 +1,2 @@
-# orsz-gok_9b
+# országok_9b
 országok neveit gyűjtjük
